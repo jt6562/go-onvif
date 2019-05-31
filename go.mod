@@ -1,4 +1,4 @@
-module github.com/byronwilliams/go-onvif
+module github.com/jt6562/go-onvif
 
 require (
 	github.com/apex/log v1.1.0

@@ -8,7 +8,7 @@ import (
 	"time"
 
 	"github.com/apex/log"
-	onvif "github.com/byronwilliams/go-onvif"
+	onvif "github.com/jt6562/go-onvif"
 )
 
 func main() {
